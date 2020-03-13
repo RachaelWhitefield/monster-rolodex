@@ -4,3 +4,6 @@
 
 * React
 * JSON Placeholder
+* RoboHash API
+* JavaScript
+* CSS
